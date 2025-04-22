@@ -63,7 +63,6 @@ Se compara el valor buscado con el elemento en la posición centro
 Si son iguales, se encontró el elemento
 Si el valor buscado es menor, se continúa la búsqueda en la mitad izquierda
 Si el valor buscado es mayor, se continúa la búsqueda en la mitad derecha
-Eficiencia: La búsqueda binaria tiene una complejidad O(log n), lo que la hace significativamente más eficiente que la búsqueda lineal O(n) para arreglos grandes.
 📝 Conclusiones
 
 La búsqueda binaria es un algoritmo eficiente para encontrar elementos en colecciones ordenadas.
